@@ -12,6 +12,8 @@
     "category": "Utility"
   },
   "win": {
-    "target": ["portable"]
+    "target": ["portable", "zip"],
+    "signDlls": false,
+    "signAndEditExecutable": false
   }
 }
