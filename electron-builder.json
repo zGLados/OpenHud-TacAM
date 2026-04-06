@@ -12,7 +12,7 @@
     "category": "Utility"
   },
   "win": {
-    "target": ["portable", "zip"],
+    "target": ["zip"],
     "signDlls": false,
     "signAndEditExecutable": false
   }
